@@ -1,0 +1,22 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Welcome!{% endblock %}
+
+{% block body %}
+
+    <div class="welcome-wrapper">
+        <p>
+            <ul>
+                <li><a href="{{ path('app_offer_list') }}">Liste des offres</a> </li>
+                <li><a href="{{ path('app_offer_test') }}">Test ajout d'une offre</a></li>
+                <li><a href="{{ path('app_offer_new') }}">Ajout manuel d'une offre</a></li>
+                <li><a href="{{ path('app_offer_import', {'city':33063}) }}">BORDEAUX Import auto des offres depuis PE</a></li>
+                <li><a href="{{ path('app_offer_import', {'city':35238}) }}">RENNES Import auto des offres depuis PE</a></li>
+                <li><a href="{{ path('app_offer_import', {'city':75}) }}">PARIS Import auto des offres depuis PE</a></li>
+                <li><a href="{{ path('app_offer_report') }}">Rapport</a></li>
+            </ul>
+
+        </p>
+
+    </div>
+{% endblock %}

@@ -1,0 +1,17 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Hello here are a few availables offers {% endblock %}
+
+{% block body %}
+<div class="example-wrapper">
+    {% if (data is empty) %}
+        Sorry but nothing to show
+    {% else %}
+        <ul>
+        {%  for offer in data %}
+            <li>{{ offer }}</li>
+        {% endfor %}
+        </ul>
+    {% endif %}
+</div>
+{% endblock %}

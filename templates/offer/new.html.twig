@@ -1,0 +1,16 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Create new Offer {% endblock %}
+
+{% block body %}
+<div class="example-wrapper">
+    {% if saved  %}
+        Object has been saved : <br>
+        {{ saved }}
+            <br>
+            <a href="{{ path('app_offer_new') }}"> Add another ?</a>
+    {% else %}
+        {{ form(formOffer) }}
+    {% endif %}
+</div>
+{% endblock %}

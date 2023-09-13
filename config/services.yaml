@@ -1,0 +1,31 @@
+# This file is the entry point to configure your own services.
+# Files in the packages/ subdirectory configure your dependencies.
+
+# Put parameters here that don't need to change on each machine where the app is deployed
+# https://symfony.com/doc/current/best_practices.html#use-parameters-for-application-configuration
+parameters:
+    api:
+        poleemploi:
+            client_id: PAR_test_987eeddcdd76a007a03ceeea45284892c9bff407594c5b3ac660445596bcf773
+            client_secret: d41ab836d87db37c9b7cf0ddff2da39e325a523fb4ce7e58be840702f0da7e19
+services:
+    # default configuration for services in *this* file
+    _defaults:
+        autowire: true      # Automatically injects dependencies in your services.
+        autoconfigure: true # Automatically registers your services as commands, event subscribers, etc.
+
+    # makes classes in src/ available to be used as services
+    # this creates a service per class whose id is the fully-qualified class name
+    App\:
+        resource: '../src/'
+        exclude:
+            - '../src/DependencyInjection/'
+            - '../src/Entity/'
+            - '../src/Kernel.php'
+
+    # add more service definitions when explicit configuration is needed
+    # please note that last definitions always *replace* previous ones
+    App\Service\PoleemploiClient:
+        arguments:
+            $clientId: parameter("api")['poleemploi']['client_id']
+            $clientSecret: parameter("api")['poleemploi']['client_secret']

@@ -47,17 +47,17 @@ class PoleemploiClient
                 'headers' => ['Authorization' => 'Bearer ' . $bearer],
             ]);
 
-            $headers = $response->getHeaders();
-            $headerData = $headers['content-range'][0];
-
-            // offres 0-149/13280
-            preg_match('#(\d*)-(\d*)/(\d*)#', $headerData, $matches);
-            $from = (int)$matches[0];
-            $to = (int)$matches[1];
-            $max = (int)$matches[2];
-            $data = json_decode($response->getContent(false),true)['resultats'];
-
             if ($getEverything) {
+                $headers = $response->getHeaders();
+                $headerData = $headers['content-range'][0];
+    
+                // offres 0-149/13280
+                preg_match('#(\d*)-(\d*)/(\d*)#', $headerData, $matches);
+                $from = (int)$matches[0];
+                $to = (int)$matches[1];
+                $max = (int)$matches[2];
+                $data = json_decode($response->getContent(false),true)['resultats'];
+
                 $to += self::MAX_IMPORT_LOT;
                 $from += self::MAX_IMPORT_LOT;
 

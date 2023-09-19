@@ -1,3 +1,0 @@
-<?php //JsonSerializable%2523jsonSerialize
-
-return [PHP_INT_MAX, []];

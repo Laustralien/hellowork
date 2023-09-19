@@ -1393,6 +1393,6 @@ class __TwigTemplate_a5cef35f5387a6ac4dd2dbc3b0ce6953 extends Template
         <span>{{ route|default(controller) }}</span>
     {%- endif %}
 {% endmacro %}
-", "@WebProfiler/Collector/request.html.twig", "/Users/thomaslegendre/HW/hellowork/symfony-6-2-php-8-2-webapp-1/vendor/symfony/web-profiler-bundle/Resources/views/Collector/request.html.twig");
+", "@WebProfiler/Collector/request.html.twig", "/Users/thomaslegendre/HW/hellowork/project/vendor/symfony/web-profiler-bundle/Resources/views/Collector/request.html.twig");
     }
 }

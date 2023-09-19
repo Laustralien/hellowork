@@ -586,6 +586,6 @@ class __TwigTemplate_733a86a2289525f12b0e18b637111a45 extends Template
         {% endif %}
     </div>
 {% endblock %}
-", "@WebProfiler/Collector/http_client.html.twig", "/Users/thomaslegendre/HW/hellowork/symfony-6-2-php-8-2-webapp-1/vendor/symfony/web-profiler-bundle/Resources/views/Collector/http_client.html.twig");
+", "@WebProfiler/Collector/http_client.html.twig", "/Users/thomaslegendre/HW/hellowork/project/vendor/symfony/web-profiler-bundle/Resources/views/Collector/http_client.html.twig");
     }
 }

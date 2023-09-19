@@ -243,6 +243,6 @@ class __TwigTemplate_39276639ce36ba94b656b53e2910c39f extends Template
         </div>
     {% endif %}
 {% endblock %}
-", "@WebProfiler/Collector/exception.html.twig", "/Users/thomaslegendre/HW/hellowork/symfony-6-2-php-8-2-webapp-1/vendor/symfony/web-profiler-bundle/Resources/views/Collector/exception.html.twig");
+", "@WebProfiler/Collector/exception.html.twig", "/Users/thomaslegendre/HW/hellowork/project/vendor/symfony/web-profiler-bundle/Resources/views/Collector/exception.html.twig");
     }
 }

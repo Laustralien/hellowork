@@ -170,6 +170,6 @@ class __TwigTemplate_a6b6b1a1ce4a012f122dc4f56257db13 extends Template
 
     </div>
 {% endblock %}
-", "welcome/index.html.twig", "/Users/thomaslegendre/HW/hellowork/symfony-6-2-php-8-2-webapp-1/templates/welcome/index.html.twig");
+", "welcome/index.html.twig", "/Users/thomaslegendre/HW/hellowork/project/templates/welcome/index.html.twig");
     }
 }

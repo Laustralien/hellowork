@@ -71,6 +71,6 @@ class __TwigTemplate_bdbe9582d21020bc96b1c26e1acd9d62 extends Template
     <circle cx=\"10\" cy=\"10\" r=\"7\"></circle>
     <line x1=\"21\" y1=\"21\" x2=\"15\" y2=\"15\"></line>
 </svg>
-", "@WebProfiler/Icon/search.svg", "/Users/thomaslegendre/HW/hellowork/symfony-6-2-php-8-2-webapp-1/vendor/symfony/web-profiler-bundle/Resources/views/Icon/search.svg");
+", "@WebProfiler/Icon/search.svg", "/Users/thomaslegendre/HW/hellowork/project/vendor/symfony/web-profiler-bundle/Resources/views/Icon/search.svg");
     }
 }

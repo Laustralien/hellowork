@@ -121,6 +121,6 @@ class __TwigTemplate_777956228db6369c958a444690fb25eb extends Template
 <div class=\"example-wrapper\">
 </div>
 {% endblock %}
-", "offer/report.html.twig", "/Users/thomaslegendre/HW/hellowork/symfony-6-2-php-8-2-webapp-1/templates/offer/report.html.twig");
+", "offer/report.html.twig", "/Users/thomaslegendre/HW/hellowork/project/templates/offer/report.html.twig");
     }
 }

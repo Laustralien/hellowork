@@ -1543,6 +1543,6 @@ $context["voter_detail"], "vote", [], "array", false, false, false, 423) == twig
         </div>
     {% endif %}
 {% endblock %}
-", "@Security/Collector/security.html.twig", "/Users/thomaslegendre/HW/hellowork/symfony-6-2-php-8-2-webapp-1/vendor/symfony/security-bundle/Resources/views/Collector/security.html.twig");
+", "@Security/Collector/security.html.twig", "/Users/thomaslegendre/HW/hellowork/project/vendor/symfony/security-bundle/Resources/views/Collector/security.html.twig");
     }
 }

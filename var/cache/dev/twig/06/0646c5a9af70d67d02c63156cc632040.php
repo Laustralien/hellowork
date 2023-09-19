@@ -692,6 +692,6 @@ class __TwigTemplate_266c91ad55be63c17eecf4bd276a6d70 extends Template
     });
 })();
 </script>
-", "@WebProfiler/Profiler/settings.html.twig", "/Users/thomaslegendre/HW/hellowork/symfony-6-2-php-8-2-webapp-1/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/settings.html.twig");
+", "@WebProfiler/Profiler/settings.html.twig", "/Users/thomaslegendre/HW/hellowork/project/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/settings.html.twig");
     }
 }

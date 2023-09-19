@@ -73,6 +73,6 @@ class __TwigTemplate_1bbe9de138336b722a7ec43460773953 extends Template
     <path d=\"M12 14a6 6 0 0 1 6 -6h3v1a6 6 0 0 1 -6 6h-3\"></path>
     <line x1=\"12\" y1=\"20\" x2=\"12\" y2=\"10\"></line>
 </svg>
-", "@WebProfiler/Icon/twig.svg", "/Users/thomaslegendre/HW/hellowork/symfony-6-2-php-8-2-webapp-1/vendor/symfony/web-profiler-bundle/Resources/views/Icon/twig.svg");
+", "@WebProfiler/Icon/twig.svg", "/Users/thomaslegendre/HW/hellowork/project/vendor/symfony/web-profiler-bundle/Resources/views/Icon/twig.svg");
     }
 }

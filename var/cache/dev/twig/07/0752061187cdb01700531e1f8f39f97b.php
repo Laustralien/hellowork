@@ -413,6 +413,6 @@ class __TwigTemplate_145510c9f4660c33611bef8b976ada04 extends Template
         </div>
     {% endfor %}
 {% endblock %}
-", "@Debug/Profiler/dump.html.twig", "/Users/thomaslegendre/HW/hellowork/symfony-6-2-php-8-2-webapp-1/vendor/symfony/debug-bundle/Resources/views/Profiler/dump.html.twig");
+", "@Debug/Profiler/dump.html.twig", "/Users/thomaslegendre/HW/hellowork/project/vendor/symfony/debug-bundle/Resources/views/Profiler/dump.html.twig");
     }
 }

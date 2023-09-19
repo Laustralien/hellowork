@@ -71,6 +71,6 @@ class __TwigTemplate_8e8ec212fb0bf563f33f77a1a4990a88 extends Template
     <line x1=\"3\" y1=\"19\" x2=\"21\" y2=\"19\" />
     <rect x=\"5\" y=\"6\" width=\"14\" height=\"10\" rx=\"1\" />
 </svg>
-", "@WebProfiler/Icon/settings-theme-system.svg", "/Users/thomaslegendre/HW/hellowork/symfony-6-2-php-8-2-webapp-1/vendor/symfony/web-profiler-bundle/Resources/views/Icon/settings-theme-system.svg");
+", "@WebProfiler/Icon/settings-theme-system.svg", "/Users/thomaslegendre/HW/hellowork/project/vendor/symfony/web-profiler-bundle/Resources/views/Icon/settings-theme-system.svg");
     }
 }

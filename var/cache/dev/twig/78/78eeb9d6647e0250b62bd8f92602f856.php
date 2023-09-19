@@ -3395,6 +3395,6 @@ body.outlook p {
         min-width: 0;
     }
 }
-", "@email/zurb_2/main.css", "/Users/thomaslegendre/HW/hellowork/symfony-6-2-php-8-2-webapp-1/vendor/symfony/twig-bridge/Resources/views/Email/zurb_2/main.css");
+", "@email/zurb_2/main.css", "/Users/thomaslegendre/HW/hellowork/project/vendor/symfony/twig-bridge/Resources/views/Email/zurb_2/main.css");
     }
 }

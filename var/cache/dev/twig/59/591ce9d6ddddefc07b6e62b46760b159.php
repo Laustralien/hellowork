@@ -1803,6 +1803,6 @@ class __TwigTemplate_5e806bca56e47a8cc44e7e82f4f64429 extends Template
         </tbody>
     </table>
 {% endmacro %}
-", "@Doctrine/Collector/db.html.twig", "/Users/thomaslegendre/HW/hellowork/symfony-6-2-php-8-2-webapp-1/vendor/doctrine/doctrine-bundle/Resources/views/Collector/db.html.twig");
+", "@Doctrine/Collector/db.html.twig", "/Users/thomaslegendre/HW/hellowork/project/vendor/doctrine/doctrine-bundle/Resources/views/Collector/db.html.twig");
     }
 }

@@ -199,6 +199,6 @@ Exception stack trace attached.
 {{ exception }}
 {% endif %}
 {% endblock %}
-", "@email/zurb_2/notification/body.txt.twig", "/Users/thomaslegendre/HW/hellowork/symfony-6-2-php-8-2-webapp-1/vendor/symfony/twig-bridge/Resources/views/Email/zurb_2/notification/body.txt.twig");
+", "@email/zurb_2/notification/body.txt.twig", "/Users/thomaslegendre/HW/hellowork/project/vendor/symfony/twig-bridge/Resources/views/Email/zurb_2/notification/body.txt.twig");
     }
 }

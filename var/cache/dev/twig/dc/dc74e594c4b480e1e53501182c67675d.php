@@ -158,6 +158,6 @@ class __TwigTemplate_3d5be8868f6f55be2bf46a540a33aafb extends Template
     {% endif %}
 </div>
 {% endblock %}
-", "offer/list.html.twig", "/Users/thomaslegendre/HW/hellowork/symfony-6-2-php-8-2-webapp-1/templates/offer/list.html.twig");
+", "offer/list.html.twig", "/Users/thomaslegendre/HW/hellowork/project/templates/offer/list.html.twig");
     }
 }

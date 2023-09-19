@@ -194,6 +194,6 @@ class __TwigTemplate_502d25811125f004acaa752513b382e6 extends Template
         {% block body %}{% endblock %}
     </body>
 </html>
-", "base.html.twig", "/Users/thomaslegendre/HW/hellowork/symfony-6-2-php-8-2-webapp-1/templates/base.html.twig");
+", "base.html.twig", "/Users/thomaslegendre/HW/hellowork/project/templates/base.html.twig");
     }
 }

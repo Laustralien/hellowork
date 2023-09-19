@@ -77,6 +77,6 @@ class __TwigTemplate_1d8c9852a62483b16acf01a6f6b99b96 extends Template
     <path d=\"M6 15l-3 3l3 3\" />
     <path d=\"M18 15l3 3l-3 3\" />
 </svg>
-", "@WebProfiler/Icon/settings-width-fitted.svg", "/Users/thomaslegendre/HW/hellowork/symfony-6-2-php-8-2-webapp-1/vendor/symfony/web-profiler-bundle/Resources/views/Icon/settings-width-fitted.svg");
+", "@WebProfiler/Icon/settings-width-fitted.svg", "/Users/thomaslegendre/HW/hellowork/project/vendor/symfony/web-profiler-bundle/Resources/views/Icon/settings-width-fitted.svg");
     }
 }

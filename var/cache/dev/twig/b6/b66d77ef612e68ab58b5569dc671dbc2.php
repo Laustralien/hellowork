@@ -71,6 +71,6 @@ class __TwigTemplate_c00120d6e1e70e42e95b4bc011885df5 extends Template
     <circle cx=\"12\" cy=\"7\" r=\"4\"></circle>
     <path d=\"M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2\"></path>
 </svg>
-", "@Security/Collector/icon.svg", "/Users/thomaslegendre/HW/hellowork/symfony-6-2-php-8-2-webapp-1/vendor/symfony/security-bundle/Resources/views/Collector/icon.svg");
+", "@Security/Collector/icon.svg", "/Users/thomaslegendre/HW/hellowork/project/vendor/symfony/security-bundle/Resources/views/Collector/icon.svg");
     }
 }

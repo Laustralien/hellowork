@@ -79,6 +79,6 @@ class __TwigTemplate_cac93ef58338fcde1b74f998179730bf extends Template
     <path d=\"M8 5v4h11l2 -2l-2 -2z\"></path>
     <path d=\"M14 13v4h-8l-2 -2l2 -2z\"></path>
 </svg>
-", "@WebProfiler/Icon/router.svg", "/Users/thomaslegendre/HW/hellowork/symfony-6-2-php-8-2-webapp-1/vendor/symfony/web-profiler-bundle/Resources/views/Icon/router.svg");
+", "@WebProfiler/Icon/router.svg", "/Users/thomaslegendre/HW/hellowork/project/vendor/symfony/web-profiler-bundle/Resources/views/Icon/router.svg");
     }
 }

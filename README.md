@@ -1,5 +1,6 @@
-## Lancement 
+## Lancement
 - lancement du projet via > composer install && symfony server:start
+- ou avec Docker : 
 
 ## Fonctions disponibles
 - page d'accueil avec les différentes pages /
